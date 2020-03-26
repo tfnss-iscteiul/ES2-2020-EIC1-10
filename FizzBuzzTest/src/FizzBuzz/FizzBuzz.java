@@ -1,5 +1,4 @@
 package FizzBuzz;
-import junit.runner.Version;
 
 
 public class FizzBuzz {
@@ -16,7 +15,6 @@ public class FizzBuzz {
 		}
 		System.out.println("ISTO");
 
-		System.out.println("JUnit version is: " + Version.id());
 
 	}
 
